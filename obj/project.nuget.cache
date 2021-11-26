@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z6QhAMmwc76N31RGtUt8DaJU9GGo5Udh9lhtK8jWvjx+PLwsTcob5LnFvPopXqhJF2sR2adhTUQan0AhlpUh5g==",
+  "success": true,
+  "projectFilePath": "E:\\Morgan\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Naren\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
